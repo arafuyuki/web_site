@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.title {
+  @apply font-2exbold py-8 text-2xl;
+}
+.font-2exbold {
+  font-weight: 800;
+}
