@@ -7,6 +7,7 @@ const Home: React.FC = () => (
     <PageHeader />
     <Hero />
     <Products />
+    <Company />
   </main>
 );
 
