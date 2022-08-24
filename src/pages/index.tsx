@@ -5,6 +5,7 @@ const Home: React.FC = () => (
   <main className=''>
     <PageHeader />
     <Hero />
+    <Company />
   </main>
 );
 
