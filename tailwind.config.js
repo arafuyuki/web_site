@@ -33,7 +33,7 @@ module.exports = {
       },
       orange: '#F2994A',
       yellow: '#F2C94C',
-      black: '#344242',
+      black: '#0F0F0F',
       white: '#FFFFFF',
     },
     fontSize: {

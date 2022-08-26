@@ -5,7 +5,7 @@ export const Products: React.FC = () => (
   <>
     <div className='mx-auto mt-20 w-10/12'>
       <div className='mx-auto'>
-        <h2 className='title'>PRODUCTS</h2>
+        <h2 className='title py-24'>PRODUCTS</h2>
         <div className='mx-auto w-10/12'>
           <div className='mx-auto w-max py-6'>
             <Image src='/img/example.jpg' alt="product's photo" width={700} height={400} />
