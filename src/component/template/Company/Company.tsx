@@ -37,6 +37,31 @@ export const Company: React.FC = () => (
           <li className='border-bottom'>お問い合わせフォーム</li>
         </ul>
       </div>
+      <div className='m-auto bg-black text-white '>
+        <ul>
+          <div className='flex justify-between pr-24'>
+            <div className='pl-36'>
+              <li className='py-4'>HERP Hire</li>
+              <li>HERP Nurture</li>
+            </div>
+            <div className='pl-36'>
+              <li className='py-4'>HERP Lab</li>
+              <li>note</li>
+              <li className='py-4'>HERP TechHub</li>
+            </div>
+            <div className='pl-36'>
+              <li className='py-4'>プライバシーポリシー</li>
+              <li>個人情報の取り扱いについて</li>
+              <li className='py-4'>個人情報保護方針</li>
+              <li className='pb-8'>情報セキュリティ方針</li>
+            </div>
+          </div>
+          <div className='border'></div>
+          <div className='pb-12 text-center text-white'>
+            <h6 className='text-12px'>&copy;2022.KIKAGAKU.Inc、KIKAGAKU.Inc.,All right reservd.</h6>
+          </div>
+        </ul>
+      </div>
     </div>
     );
   </>
