@@ -34,7 +34,7 @@ export const Company: React.FC = () => (
           <li className='py-4'>arafuyuki2@gmail.com</li>
           <li className='py-6 text-lg font-bold'>プロダクトに関するお問い合わせ</li>
           <li>下記フォームよりお問い合わせください</li>
-          <li className='border-bottom'>お問い合わせフォーム</li>
+          <li className='pb-36'>お問い合わせフォーム</li>
         </ul>
       </div>
       <div className='m-auto bg-black text-white '>
