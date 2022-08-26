@@ -5,17 +5,17 @@ export const Company: React.FC = () => (
       <h1 className='m-auto w-4/5 py-24 text-[60px] font-bold italic'>CANPANY</h1>
       <div className='m-auto w-4/5'>
         <ul>
-          <li className='border-t-2 py-4 opacity-30'></li>
+          <li className='border-t py-4 opacity-30'></li>
           <li className='pb-6'>社名</li>
-          <li className='border-t-2 py-4 opacity-30'></li>
+          <li className='border-t py-4 opacity-30'></li>
           <li className='pb-6'>本社所在地</li>
-          <li className='border-t-2 py-4 opacity-30'></li>
+          <li className='border-t py-4 opacity-30'></li>
           <li className='pb-6'>設立</li>
-          <li className='border-t-2 py-4 opacity-30'></li>
+          <li className='border-t py-4 opacity-30'></li>
           <li className='pb-6'>代表取締役</li>
-          <li className='border-t-2 py-4 opacity-30'></li>
+          <li className='border-t py-4 opacity-30'></li>
           <li className='pb-6'>事業内容</li>
-          <li className='border-t-2 py-4 opacity-30'></li>
+          <li className='border-t py-4 opacity-30'></li>
         </ul>
       </div>
       <div className='bg-white text-black'>

@@ -1,6 +1,6 @@
 export const Hero: React.FC = () => (
   <>
-    <div className='mx-auto w-10/12'>
+    <div className='mx-auto w-10/12 text-black'>
       <div className='mt-40 w-max'>
         <hr />
         <p className=''>We create a new standard of recruiting.</p>
